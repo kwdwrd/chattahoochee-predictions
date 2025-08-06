@@ -1,0 +1,254 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://spatialdata.usace.army.mil/hydropower/
+Subject: Operations Division :: Mobile District :: US Army Corps of Engineers
+Date: Mon, 28 Jul 2025 22:23:21 -0400
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--aVaB52n6SHgN8CntZQHfpibLlYrd9JW7djY8QmRaBB----"
+
+
+------MultipartBoundary--aVaB52n6SHgN8CntZQHfpibLlYrd9JW7djY8QmRaBB----
+Content-Type: text/html
+Content-ID: <frame-963B2BD9B969C7AA363A4977833FC41F@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://spatialdata.usace.army.mil/hydropower/
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns=3D"http://www.w3.=
+org/1999/xhtml"><head id=3D"Head1"><meta http-equiv=3D"Content-Type" conten=
+t=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/css"=
+ href=3D"cid:css-3fe9f942-d6d8-4b5a-8ea9-0a1f1645e292@mhtml.blink" /><title=
+>
+	Operations Division :: Mobile District :: US Army Corps of Engineers
+</title><link href=3D"https://spatialdata.usace.army.mil/App_Themes/formatt=
+ing.css" rel=3D"stylesheet" type=3D"text/css" media=3D"screen">
+   =20
+
+</head>
+<body>
+    <form name=3D"form1" method=3D"post" action=3D"https://spatialdata.usac=
+e.army.mil/hydropower/" id=3D"form1">
+<div>
+
+
+
+
+</div>
+
+
+
+
+<div>
+
+=09
+=09
+</div>
+    <div>
+    <h1>Hydropower Generation Schedules</h1>=20
+    <p>
+    <span id=3D"Label1" style=3D"display:inline-block;font-weight:normal;he=
+ight:30px;width:600px;">To view a hydropower generation schedule, select a =
+power plant and date from the dropdowns.=20
+        The schedules are updated daily. All times are listed in local time=
+.</span>
+    </p>
+    <p>
+        <select name=3D"Plant_Selector" id=3D"Plant_Selector">
+	<option value=3D"0">---</option>
+	<option value=3D"1">ALLATOONA DAM AND LAKE</option>
+	<option selected=3D"selected" value=3D"2">BUFORD DAM/LAKE SIDNEY LANIER</o=
+ption>
+	<option value=3D"3">CARTERS DAM AND LAKE</option>
+	<option value=3D"8">JIM WOODRUFF DAM/LAKE SEMINOLE</option>
+	<option value=3D"7">JONES BLUFF POWERHOUSE/R. F. HENRY</option>
+	<option value=3D"5">MILLERS FERRY DAM AND RESERVOIR</option>
+	<option value=3D"6">WALTER F. GEORGE DAM AND LAKE</option>
+	<option value=3D"4">WEST POINT DAM AND LAKE</option>
+
+</select> <br><br>
+        <select name=3D"Date_Selector" id=3D"Date_Selector" style=3D"width:=
+140px;">
+	<option value=3D"0">---</option>
+	<option value=3D"7/23/2025">7/23/2025</option>
+	<option value=3D"7/24/2025">7/24/2025</option>
+	<option value=3D"7/25/2025">7/25/2025</option>
+	<option value=3D"7/26/2025">7/26/2025</option>
+	<option value=3D"7/27/2025">7/27/2025</option>
+	<option selected=3D"selected" value=3D"7/28/2025">7/28/2025</option>
+	<option value=3D"7/29/2025">7/29/2025</option>
+
+</select>
+    </p>
+   =20
+        <fieldset class=3D"Schedule" style=3D"border:None">
+            <div style=3D"float:left; width:48%">
+               =20
+                <div>
+	<table class=3D"thetable" cellspacing=3D"1" align=3D"Left" rules=3D"all" b=
+order=3D"2" id=3D"GridView1" style=3D"border-color:#000000;border-width:2px=
+;border-style:solid;">
+		<caption align=3D"Top">
+			<table border=3D"2" bordercolor=3D"#000" width=3D"100%" cellpadding=3D"0=
+" cellspacing=3D"0" bgcolor=3D"#054E81"><tbody><tr><td style=3D"color:#fff;=
+ font-size:12pt; font-weight:bold">Schedule</td></tr></tbody></table>
+		</caption><tbody><tr>
+			<th class=3D"title1" scope=3D"col">Time (Eastern)</th><th class=3D"title=
+2" scope=3D"col">Generation (MW)</th>
+		</tr><tr class=3D"row" align=3D"center">
+			<td class=3D"field1">12:00 am - 1:00 am</td><td class=3D"field2">127</td=
+>
+		</tr><tr class=3D"altRow" align=3D"center">
+			<td class=3D"field1">1:00 am - 2:00 am</td><td class=3D"field2">7</td>
+		</tr><tr class=3D"row" align=3D"center">
+			<td class=3D"field1">2:00 am - 3:00 am</td><td class=3D"field2">7</td>
+		</tr><tr class=3D"altRow" align=3D"center">
+			<td class=3D"field1">3:00 am - 4:00 am</td><td class=3D"field2">7</td>
+		</tr><tr class=3D"row" align=3D"center">
+			<td class=3D"field1">4:00 am - 5:00 am</td><td class=3D"field2">7</td>
+		</tr><tr class=3D"altRow" align=3D"center">
+			<td class=3D"field1">5:00 am - 6:00 am</td><td class=3D"field2">7</td>
+		</tr><tr class=3D"row" align=3D"center">
+			<td class=3D"field1">6:00 am - 7:00 am</td><td class=3D"field2">7</td>
+		</tr><tr class=3D"altRow" align=3D"center">
+			<td class=3D"field1">7:00 am - 8:00 am</td><td class=3D"field2">7</td>
+		</tr><tr class=3D"row" align=3D"center">
+			<td class=3D"field1">8:00 am - 9:00 am</td><td class=3D"field2">7</td>
+		</tr><tr class=3D"altRow" align=3D"center">
+			<td class=3D"field1">9:00 am - 10:00 am</td><td class=3D"field2">7</td>
+		</tr><tr class=3D"row" align=3D"center">
+			<td class=3D"field1">10:00 am - 11:00 am</td><td class=3D"field2">7</td>
+		</tr><tr class=3D"altRow" align=3D"center">
+			<td class=3D"field1">11:00 am - 12:00 pm</td><td class=3D"field2">7</td>
+		</tr><tr class=3D"row" align=3D"center">
+			<td class=3D"field1">12:00 pm - 1:00 pm</td><td class=3D"field2">7</td>
+		</tr><tr class=3D"altRow" align=3D"center">
+			<td class=3D"field1">1:00 pm - 2:00 pm</td><td class=3D"field2">7</td>
+		</tr><tr class=3D"row" align=3D"center">
+			<td class=3D"field1">2:00 pm - 3:00 pm</td><td class=3D"field2">7</td>
+		</tr><tr class=3D"altRow" align=3D"center">
+			<td class=3D"field1">3:00 pm - 4:00 pm</td><td class=3D"field2">7</td>
+		</tr><tr class=3D"row" align=3D"center">
+			<td class=3D"field1">4:00 pm - 5:00 pm</td><td class=3D"field2">127</td>
+		</tr><tr class=3D"altRow" align=3D"center">
+			<td class=3D"field1">5:00 pm - 6:00 pm</td><td class=3D"field2">127</td>
+		</tr><tr class=3D"row" align=3D"center">
+			<td class=3D"field1">6:00 pm - 7:00 pm</td><td class=3D"field2">127</td>
+		</tr><tr class=3D"altRow" align=3D"center">
+			<td class=3D"field1">7:00 pm - 8:00 pm</td><td class=3D"field2">127</td>
+		</tr><tr class=3D"row" align=3D"center">
+			<td class=3D"field1">8:00 pm - 9:00 pm</td><td class=3D"field2">7</td>
+		</tr><tr class=3D"altRow" align=3D"center">
+			<td class=3D"field1">9:00 pm - 10:00 pm</td><td class=3D"field2">7</td>
+		</tr><tr class=3D"row" align=3D"center">
+			<td class=3D"field1">10:00 pm - 11:00 pm</td><td class=3D"field2">7</td>
+		</tr><tr class=3D"altRow" align=3D"center">
+			<td class=3D"field1">11:00 pm - 12:00 pm</td><td class=3D"field2">7</td>
+		</tr>
+	</tbody></table>
+</div>
+            </div>
+
+            <div style=3D"top:auto; float:left">
+                <div>
+	<table class=3D"thetable2" cellspacing=3D"1" align=3D"Left" rules=3D"all" =
+border=3D"2" id=3D"GridView2" style=3D"border-color:#000000;border-width:2p=
+x;border-style:solid;">
+		<caption align=3D"Top">
+			<table border=3D"2" bordercolor=3D"#000" width=3D"100%" cellpadding=3D"0=
+" cellspacing=3D"0" bgcolor=3D"#054E81"><tbody><tr><td style=3D"color:#fff;=
+ font-size:12pt; font-weight:bold">Flow Rate</td></tr></tbody></table>
+		</caption><tbody><tr>
+			<th class=3D"title1" scope=3D"col">Megawatts (MW)</th><th class=3D"title=
+2" scope=3D"col">Cubic Feet per Second (CFS)</th>
+		</tr><tr class=3D"row" align=3D"center">
+			<td class=3D"field1">0 - 7</td><td class=3D"field2">0 - 700</td>
+		</tr><tr class=3D"altRow" align=3D"center">
+			<td class=3D"field1">35 - 67</td><td class=3D"field2">4,000 - 6,500</td>
+		</tr><tr class=3D"row" align=3D"center">
+			<td class=3D"field1">68 - 127</td><td class=3D"field2">6,500 - 12,500</t=
+d>
+		</tr>
+	</tbody></table>
+</div>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+
+                <span id=3D"lblMinFlow" style=3D"color:Black;padding-bottom=
+:15px; display:block; width:325px; font-weight:bold; font-size:12px; line-h=
+eight:1.25;">Minimum Flow:  750 CFS near Peachtree Creek</span>
+                <span id=3D"Label3" style=3D"color:Black;padding-bottom:15p=
+x; display:block; width:325px; font-weight:bold; font-size:12px; line-heigh=
+t:1.25;">NOTICE OF LIABILITY</span>
+				<span id=3D"Label2" style=3D"color:Black;padding-bottom:15px; display:b=
+lock; width:325px; font-weight:normal; font-size:12px; line-height:1.25;">T=
+he Chattahoochee River downstream of Buford Dam is subject to release of wa=
+ter and increase of flows within the river. The information provided on thi=
+s website is provided for informational and planning purposes only. The U. =
+S. Army Corps of Engineers makes no representations or warranties as to whe=
+ther the information provided is accurate, complete, or current, and discla=
+ims all warranties of any nature, express or implied, without limitation. F=
+urther, the undertaking of any activity within the Chattahoochee River is a=
+ voluntary act and done at the risk of each participant. The U.S. Army Corp=
+s of Engineers assumes no liability for injury, loss, or damage to any indi=
+vidual or third party for any direct, indirect, incidental, consequential, =
+special, or exemplary damages or lost profit resulting from any use or misu=
+se of data or information from this website.</span>
+          =20
+				=20
+               =20
+            </div>
+        </fieldset>
+    </div>
+    </form>
+
+</body></html>
+------MultipartBoundary--aVaB52n6SHgN8CntZQHfpibLlYrd9JW7djY8QmRaBB----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://spatialdata.usace.army.mil/App_Themes/formatting.css
+
+@charset "utf-8";
+=0A
+------MultipartBoundary--aVaB52n6SHgN8CntZQHfpibLlYrd9JW7djY8QmRaBB----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-3fe9f942-d6d8-4b5a-8ea9-0a1f1645e292@mhtml.blink
+
+@charset "utf-8";
+
+body { color: rgb(0, 0, 0); font: 14px / 125% arial, verdana, tahoma, helve=
+tica, sans-serif; background: rgb(235, 235, 235); }
+
+h1, h2, h3 { font: 1.6em "trebuchet ms", tahoma, arial, helvetica, verdana;=
+ color: rgb(109, 156, 191); }
+
+h1 { font-size: 2em; }
+
+h2 { font-size: 1.75em; }
+
+.thetable { border: 5px solid rgb(187, 187, 187); background: rgb(204, 204,=
+ 204); width: 325px; margin: 0px auto; }
+
+.thetable2 { border: 1px solid rgb(187, 187, 187); background: rgb(204, 204=
+, 204); width: 400px; margin: 0px auto; padding-bottom: 30px; clear: left; =
+}
+
+.altRow { background: url("../images/pageElements/bgd_submenus.jpg") 0px -3=
+px repeat-x; }
+
+.row { background: rgb(255, 255, 255); }
+
+.field1, .field2 { padding: 2px; }
+
+.field1 { }
+
+.title1, .title2 { background: rgb(5, 78, 129); color: rgb(255, 255, 255); =
+padding: 3px; }
+------MultipartBoundary--aVaB52n6SHgN8CntZQHfpibLlYrd9JW7djY8QmRaBB------
