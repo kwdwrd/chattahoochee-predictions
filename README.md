@@ -34,6 +34,20 @@ USACE data is available at `<tbd>`
 
 ## Methodology
 
+Basic factor-labeling suggests that the flow rate of a river (in volume per second) can be modeled as
+$$
+\text{Flow} = \text{Cross section} \times \text{Speed}.
+$$
+Taking the speed of flow as a constant, if the riverbed is triangular then we obtain
+$$
+\text{Flow} = C \times \text{Height}^2 \times \text{Speed}.
+$$
+Thus we should have that $\text{Height} \approx \beta \times \sqrt{\text{Flow}}$. This yields the following prediction.
+
+![Height as square root of flow](./notebooks/graphics/height_v_discharge_sqrt.png)
+
+By including an intercept and a linear term we obtain a near-perfect fit.
+
 ![text](./notebooks/graphics/height_v_discharge.png)
 
 ## Scheduled tasks
